@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Classification
+# 🚦 Sign Sense: Navigating The Road With Traffic Sign Detection
 
 This project focuses on classifying traffic signs using deep learning techniques. It demonstrates how computer vision and convolutional neural networks (CNNs) can be applied to real-world problems such as autonomous driving and road safety systems.
 
