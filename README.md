@@ -11,10 +11,10 @@ This project focuses on classifying traffic signs using deep learning techniques
 ## 🧰 Tools & Technologies
 
 - **Python**
-- **TensorFlow / Keras** – Deep learning framework
+- **TensorFlow & Keras** – Deep learning framework
 - **OpenCV** – Image preprocessing
-- **Matplotlib / Seaborn** – Visualization
-- **NumPy / Pandas** – Data handling
+- **Matplotlib & Seaborn** – Visualization
+- **NumPy & Pandas** – Data handling
 - **Jupyter Notebook** – Development and testing
 
 ## 🗂️ Dataset
